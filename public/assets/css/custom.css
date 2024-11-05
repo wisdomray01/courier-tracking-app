@@ -1,0 +1,43 @@
+#bodyc{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("/assets/images/deli.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100%; /* This should work */
+}
+
+.container {
+    height: 100%;
+}
+
+#txtcolor{
+    color: white;
+    /* text-shadow: 4px 4px 4px black; */
+}
+
+
+#cardbody{
+
+    background-color:#0f172a;
+    opacity: 90%;
+}
+
+.abt{
+    color: whitesmoke;
+}
+
+.headerct{
+    background-color: #0f172a;
+    opacity: 90%;
+}
+
+.footerct{
+    background-color: #0f172a;
+    opacity: 90%;
+    color: white;
+}
+
+.bd-rad{
+    border-radius: 0%;
+}
